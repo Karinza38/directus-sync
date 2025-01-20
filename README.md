@@ -1,4 +1,4 @@
-# Directus Sync
+ # Directus Sync
 
 The `directus-sync` command-line interface (CLI) provides a set of tools for managing and synchronizing the schema and
 collections within Directus across different environments.
