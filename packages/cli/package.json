@@ -32,7 +32,7 @@
     "typescript": "5.2.2"
   },
   "dependencies": {
-    "@directus/sdk": "^12.0.1",
+    "@directus/sdk": "^12.1.0",
     "commander": "^11.1.0",
     "deep-object-diff": "^1.1.9",
     "deepmerge": "^4.3.1",
